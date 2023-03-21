@@ -10,7 +10,7 @@ LABEL top.housheng.maintainer="zhengwei"
 ```
 
 #### 2.在阿里云中的容器镜像服务中创建etcd的仓库名称，仓库类型可选公开或者私有，点击下一步。
-
+![1](https://github.com/houshengtop/cuddly-giggle/blob/main/registryk8sio/1.png)
 
 #### 3.在创建镜像仓库页面中选择代码源为Github，命名空间为自己在github中创建的项目，仓库中选择创建的仓库名，构建设置选择海外机器构建和不使用缓存，配置完毕后选择创建镜像仓库。
 
