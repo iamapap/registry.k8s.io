@@ -1,3 +1,3 @@
-FROM gcr.io/google-appenine/openjdk:8
+FROM gcr.io/google-appengine/openjdk:8
 
 LABEL top.housheng.maintainer="zhengwei"
