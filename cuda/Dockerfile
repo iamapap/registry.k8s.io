@@ -1,3 +1,3 @@
-FROM docker.io/nvidia/cuda:12.5.0-devel-ubuntu22.04
+FROM nvcr.io/nvidia/pytorch:24.02-py3
 
 MAINTAINER com.wangzhengwei.buildtime="20240606"
